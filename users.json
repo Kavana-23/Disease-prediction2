@@ -1,0 +1,19 @@
+{
+    "sanjana": "0000",
+    "vinu": "1234567890",
+    "kavana": "123",
+    "kav": "211",
+    "vani": "8959",
+    "megha": "456",
+    "sanju": "123",
+    "ganu": {
+        "password": "123",
+        "phone": "8792323184",
+        "email": "sanjanann7@gmail.com"
+    },
+    "kavaan": {
+        "password": "123",
+        "phone": "9874563210",
+        "email": "kavaan123@gmail.com"
+    }
+}
